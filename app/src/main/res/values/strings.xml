@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile Mahasiswa</string>
+    <string name="txt_name">Okta Alshina Arva P.</string>
+    <string name="txt_nim">24/535154/SV/24161</string>
+    <string name="txt_daerah">Daerah asal : Jawa Tengah</string>
+    <string name="txt_prodi">Program Studi : Teknologi Rekayasa Perangkat Lunak</string>
+    <string name="txt_hobi">Hobi : Membaca Novel dan Bermain Badminton</string>
+    <string name="txt_quote">Quote Favorit : “The humblest tasks get beautified when loving hands do them.” -Louisa May Alcott, Little Women</string>
+    <string name="txt_linkedIn">LinkedIn : www.linkedin.com/in/oktaalshina</string>
+</resources>
