@@ -130,7 +130,7 @@
             <ImageView
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:src="@drawable/ic_hobby"
+                android:src="@drawable/ic_linkedIn"
                 android:layout_marginEnd="16dp"
                 app:tint="?android:textColorSecondary"/>
             <TextView
